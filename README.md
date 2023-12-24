@@ -38,6 +38,9 @@ Design a simple calculator with basic arithmetic operations. Prompt the user to 
 - [x] Display the result
 - [x] Exception handling (ValueError, ZeroDivisionError and other exceptions)
 
+![7](https://github.com/ihtkahs/Codsoft/assets/138241603/2b89de7d-aa21-4351-a1cc-a0b9965d2581)
+
+
 
 ### 3. Password Generator
 
